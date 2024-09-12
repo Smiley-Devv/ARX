@@ -1,4 +1,4 @@
-# ARX
+# ARX  join our support server   https://discord.gg/K5a5kspCts
 - arx changelogs only
 - Changelog V.1.5.1
 - What have we added - new eco system - thread system - bug report system - new improved command system less bugs for you and us also fixed hosting problem
